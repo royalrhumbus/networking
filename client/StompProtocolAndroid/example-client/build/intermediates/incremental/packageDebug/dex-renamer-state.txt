@@ -1,0 +1,7 @@
+#Fri Jun 23 20:11:05 PDT 2017
+base.0=C\:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c0aee2776364803b3b1b1ea41b34f6f9591339
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_008d0f69d3779d6d27c103f3d075d609d55294b1\\classes.dex
+base.1=C\:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_008d0f69d3779d6d27c103f3d075d609d55294b1
+file.0=C\:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f3c0aee2776364803b3b1b1ea41b34f6f9591339\\classes.dex

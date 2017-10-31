@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_92449fbe6695fe6b762137ab454cccbe2f358618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\7c10bc4d85d0baa5b488f12152645cdc0a0d83ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7544bcc8208cc9ec6cfc62349dadc2ebb4258ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\ed4049a6e6c6e9e3e433862fb5991ec754e33723\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47eab28b5481cd1116b60a3c88ab66a7a9d6a1a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\1d031dbcc3720dfbbcc9751670991d01cc18ddb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcc097bb51df3e70d52c5104d6925842b75aa517\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_091cf99f1e9d5dda13627d38af4a3a2f7c589ff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\1aa9f95d0123a9232ecdb81a93c91bfa65369227\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4811437e3bfe32ed0cd161457c02748d45ec4be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.0\42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8\rxjava-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.0_9ad728a779d7aa5462c567f6788eaa9094910e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\c01ed3b552f7102b8effdd00db2d9d7e8782f0e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b04af7f48ba3e61722e1f5a2b97bb0cbb97f71b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\d141421746b76a83f5e2534c8ec2e5c407073f04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaedf88a5372728f1daf17c9cd6ef92006b813a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_410fe0a847da3124f094b6e931133a823548d440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_a288b7bd6938798de269f8246e50c37c6fbb7e58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\5fe8ce77651518c315a5d01c3468ca8713737e5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26fa4b35cf0dc468e84824869085016e063af5f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3c0aee2776364803b3b1b1ea41b34f6f9591339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_4674bef102430ccf3e37fb2a938cae77bddbde4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\c6bc53a81c13184cba75a5daa9ed62f614fa76c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d740e4b6483e5af9d1b58da0f1d8eefbef835473\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_59874682a3ec4d37f0f55e3805e23235950d66b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\f83e093a728f7a6e6708bf57b16f623d7954a15f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c85169cebd1ae4f55290adcc5a3cf5e6f6f1e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\b6fed6012cbb15ba7a5e017cdca5d269f248921b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_becb0724e7af466a16b8107ff39c23bd8da63cae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.android\build-cache\a092c1cac5a1f567a6670f69dbddfc763c2f7c86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe952c9999dcf8ada622265d7967c49bd759e26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\org.java-websocket\java-websocket\1.3.2\5df4a660a5b7c76854a7085c421c70d64916f815\java-websocket-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5df4a660a5b7c76854a7085c421c70d64916f815">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\java-websocket-1.3.2_4ad25f991a14a9d7868b3631cbc97a27adb12f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2e7724dc5cdc50b5fa13df243307a14503e70">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_008d0f69d3779d6d27c103f3d075d609d55294b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Max\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Max\Desktop\networking\client\StompProtocolAndroid\example-client\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_c2c60d9cf67c9f71c49a8832ff34a60fef3b2202\classes.dex" />
+    </item>
+
+</items>

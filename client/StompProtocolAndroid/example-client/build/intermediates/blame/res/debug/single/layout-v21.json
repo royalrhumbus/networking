@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Max\\.android\\build-cache\\7c10bc4d85d0baa5b488f12152645cdc0a0d83ce\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Max\\.android\\build-cache\\7c10bc4d85d0baa5b488f12152645cdc0a0d83ce\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Max\\.android\\build-cache\\7c10bc4d85d0baa5b488f12152645cdc0a0d83ce\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Max\\Desktop\\networking\\client\\StompProtocolAndroid\\example-client\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Max\\.android\\build-cache\\7c10bc4d85d0baa5b488f12152645cdc0a0d83ce\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
